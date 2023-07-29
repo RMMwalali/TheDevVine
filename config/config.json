@@ -1,0 +1,60 @@
+{
+  "site": {
+    "title": "The Dev Vine",
+    "base_url": "/",
+    "favicon": "/images/bookmark-fav-dynamic-color.png",
+    "logo": "/images/link-iso-color.png",
+    "logo_white": "/images/link-iso-color.png",
+    "logo_width": "100",
+    "logo_height": "100",
+    "logo_text": "THE DEV ViNE"
+  },
+  "settings": {
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 12,
+    "InnerPaginationOptions": {
+      "enableTop": false,
+      "enableBottom": true
+    },
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+  "params": {
+    "tag_manager_id": "",
+    "footer_content": "We are open to sponsors and any listings we might have missed, email us and we'll add them like that💥! Also, won't hurt to subscribe, it's totally free 📬.",
+    "copyright": "Designed and Developed By [THE DEV ViNE](https://thedevvine.com/)"
+  },
+  "metadata": {
+    "meta_author": "The Dev Vine",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "The Dev Vine. The number one, and largest ever resource pool for developers. "
+  },
+  "widgets": {
+    "about": {
+      "enable": true,
+      "content": "The #1 one and largest ever free resource pool for developers. We are committed to making all developers' lives easier. Browse developer tools fit for experts and beginners as well!"
+    },
+    "featured_posts": {
+      "enable": false,
+      "title": "Tool Categories",
+      "showPost": 3
+    },
+    "categories": {
+      "enable": true,
+      "title": "Tool Categories"
+    },
+    "newsletter": {
+      "enable": true,
+      "title": "Newsletter",
+      "content": "Join thousands of developers and get news on new and other exclusive tools weekly!",
+      "privacy_policy_page": "#",
+      "mailchimp_url": "https://kcau.us21.list-manage.com/subscribe/post?u=58336f8ae7654ac756d012f39&amp;id=15a190ccea&amp;f_id=00565de1f0"
+    }
+  },
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  }
+}

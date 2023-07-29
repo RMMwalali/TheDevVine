@@ -1,0 +1,45 @@
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#6527BE",
+        "body": "#FBFBFB",
+        "border": "#6527BE",
+        "theme_light": "#757575",
+        "theme_dark": "#1a202c"
+      },
+      "text_color": {
+        "default": "#555",
+        "dark": "#000",
+        "light": "#fff"
+      }
+    },
+    "darkmode": {
+      "theme_color": {
+        "primary": "#6527BE",
+        "body": "#111",
+        "border": "#6527BE",
+        "theme_light": "#757575",
+        "theme_dark": "#383848"
+      },
+      "text_color": {
+        "default": "#a4a4a4",
+        "dark": "#000",
+        "light": "#fff"
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Lexend Deca:wght@400",
+      "primary_type": "sans-serif",
+      "secondary": "Space Grotesk:wght@400;700",
+      "secondary_type": "sans-serif",
+      "logo": ["Stick No Bills", "sans-serif"]
+    },
+    "font_size": {
+      "base": "16",
+      "scale": "1.200"
+    }
+  }
+}

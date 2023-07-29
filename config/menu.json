@@ -1,0 +1,50 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "AI📌",
+      "url": "/categories/ai"
+    },
+    {
+      "name": "Mobile📱",
+      "url": "/categories/mobile"
+    },
+    {
+      "name": "Game🎮",
+      "url": "/categories/game"
+    },
+    {
+      "name": "Design🎨",
+      "url": "/categories/design"
+    },
+    {
+      "name": "Productivity⚡️",
+      "url": "/categories/productivity"
+    },
+    {
+      "name": "Coffee Break☕️",
+      "url": "/categories/coffee-break"
+    },
+    {
+      "name":"More✨",
+      "url": "/categories"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name":"All Categories",
+      "url": "/categories"
+    },
+    {
+      "name": "Get Listed",
+      "url": "/contact"
+    }
+  ]
+}
