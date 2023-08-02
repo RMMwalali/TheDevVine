@@ -22,18 +22,18 @@
   },
   "params": {
     "tag_manager_id": "",
-    "footer_content": "We are open to sponsors and any listings we might have missed, email us and we'll add them like that💥! Also, won't hurt to subscribe, it's totally free 📬.",
-    "copyright": "Designed and Developed By [THE DEV ViNE](https://thedevvine.com/)"
+    "footer_content": "We warmly welcome sponsors and are always on the lookout for any listings we may have overlooked. Feel free to send us an email and we'll promptly update our list! Don't forget to subscribe to our newsletter - it's absolutely free and delivers value straight to your inbox 📬.",
+    "copyright": "Exquisitely Designed and Skillfully Developed By [THE DEV ViNE](https://thedevvine.com/)"
   },
   "metadata": {
     "meta_author": "The Dev Vine",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "The Dev Vine. The number one, and largest ever resource pool for developers. "
+    "meta_image": "/images/bookmark-fav-dynamic-color",
+    "meta_description": "Welcome to The Dev Vine, the ultimate resource hub for developers. Uncover a treasure trove of tools, designed to empower your coding journey. Join our vibrant community, explore, learn, and innovate with us. Subscribe for free, stay updated, and let's redefine development together."
   },
   "widgets": {
     "about": {
       "enable": true,
-      "content": "The #1 one and largest ever free resource pool for developers. We are committed to making all developers' lives easier. Browse developer tools fit for experts and beginners as well!"
+      "content": "Welcome to The Dev Vine, your ultimate and largest free resource hub for developers. Our mission is to simplify your coding journey, whether you're a seasoned expert or just starting out. Explore our vast collection of developer tools and resources – designed with you, the developer, in mind."
     },
     "featured_posts": {
       "enable": false,
@@ -47,14 +47,14 @@
     "newsletter": {
       "enable": true,
       "title": "Newsletter",
-      "content": "Join thousands of developers and get news on new and other exclusive tools weekly!",
+      "content": "Join our thriving community of developers and enjoy weekly updates on new and exclusive tools, absolutely free!",
       "privacy_policy_page": "#",
       "mailchimp_url": "https://kcau.us21.list-manage.com/subscribe/post?u=58336f8ae7654ac756d012f39&amp;id=15a190ccea&amp;f_id=00565de1f0"
     }
   },
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "The Dev Vine",
     "settings": {}
   }
 }

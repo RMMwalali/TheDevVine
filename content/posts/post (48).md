@@ -1,12 +1,10 @@
 ---
-title: "Hip Hops"
-date: 2023-07-07T01:00:00Z
-image: /images/post/hiphops.jpg
-categories: ["CI/CD"]
-featured: true
+title: "DevDocs"
+date: 2023-07-31T01:00:00Z
+image: /images/post/post1 (4).png
+categories: ["Learn"]
+featured: false
 draft: false
-href: https://www.phind.com/
+href: https://devdocs.io/
 ---
-Phind is an AI search engine optimized for developers and technical questions. It is powered by large AI language models and instantly answers questions with detailed explanations and relevant code snippets from the web. Phind simply tells users what the answer is. It is a great tool for developers who want to save time and get quick answers to their technical questions.
-
-[VISIT THE WEBSITE](https://www.phind.com/)
+Provides an extensive collection of documentation for various programming languages, frameworks, and libraries.

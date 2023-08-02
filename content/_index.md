@@ -1,7 +1,7 @@
 ---
 banner:
-  title_small: "Congrats, you found the motherlode **!** 👏"
-  content: You just happened to stumble upon the ultimate developer toolbox. We have everything you need for your next project, even for your coffee breaks.
+  title_small: "Welcome to the Ultimate Developer's Goldmine! 🙌"
+  content: 
   image_enable: false
   image: /images/link-dynamic-color.png
   button:
@@ -16,8 +16,8 @@ featured_posts:
 
 promotion:
   enable: true
-  image: /images/promotion.png
-  link: "#"
+  image: /images/spocket.png
+  link: "https://spocket.grsm.io/ke7n5yrnhmzb"
 
 recent_posts:
   title: Recent Posts

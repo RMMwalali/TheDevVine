@@ -196,7 +196,7 @@ const Sidebar = ({ posts, categories, className }) => {
               />
             )}
           />
-          <p className="text-xs">
+          {/* <p className="text-xs">
             By Signing Up, You Agree To
             <Link
               href={newsletter.privacy_policy_page}
@@ -204,7 +204,7 @@ const Sidebar = ({ posts, categories, className }) => {
             >
               Privacy Policy
             </Link>
-          </p>
+          </p> */}
         </div>
       )}
     </aside>

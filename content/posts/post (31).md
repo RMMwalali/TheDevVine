@@ -1,12 +1,10 @@
 ---
-title: "The A11Y Project"
+title: "TensorFlow"
 date: 2023-07-07T01:00:00Z
-image: /images/post/post1 (14).png
-categories: ["programming"]
-featured: true
+image: /images/post/post (31).png
+categories: ["Machine Learning","Learn"]
+featured: false
 draft: false
-href: https://www.phind.com/
+href: https://www.tensorflow.org/
 ---
-Phind is an AI search engine optimized for developers and technical questions. It is powered by large AI language models and instantly answers questions with detailed explanations and relevant code snippets from the web. Phind simply tells users what the answer is. It is a great tool for developers who want to save time and get quick answers to their technical questions.
-
-[VISIT THE WEBSITE](https://www.phind.com/)
+The official website for TensorFlow, an open-source machine learning framework developed by Google, offering extensive documentation, tutorials, and resources.

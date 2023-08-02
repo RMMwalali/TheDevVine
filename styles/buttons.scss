@@ -3,7 +3,7 @@
 }
 
 .btn-primary {
-  @apply bg-white text-black rounded-[3px] px-8 py-2.5  relative border-2 border-black dark:border-white overflow-hidden h-12;
+  @apply bg-white text-black rounded-[3px] px-8 py-2.5  relative border-2 border-black dark:border-white overflow-hidden h-12 cursor-pointer;
 
   &::before {
     @apply content-[''] absolute  h-full right-0  bg-black/5 w-0 top-0 transition-all duration-500 rounded-[3px] ease-[cubic-bezier(.42,0,.58,1)];

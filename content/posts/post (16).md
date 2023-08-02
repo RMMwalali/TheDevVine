@@ -1,12 +1,10 @@
 ---
-title: "The A11Y Project"
-date: 2023-07-07T01:00:00Z
-image: /images/post/post1 (29).png
-categories: ["programming"]
-featured: true
+title: "itch.io"
+date: 2023-07-31T01:00:00Z
+image: /images/post/post (16).png
+categories: ["Game"]
+featured: false
 draft: false
-href: https://www.phind.com/
+href: https://itch.io/
 ---
-Phind is an AI search engine optimized for developers and technical questions. It is powered by large AI language models and instantly answers questions with detailed explanations and relevant code snippets from the web. Phind simply tells users what the answer is. It is a great tool for developers who want to save time and get quick answers to their technical questions.
-
-[VISIT THE WEBSITE](https://www.phind.com/)
+An open marketplace for independent game developers, offering a platform to showcase, sell, and distribute games.

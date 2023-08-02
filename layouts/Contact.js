@@ -4,10 +4,52 @@ import { BsArrowRightShort } from "react-icons/bs";
 import { FaEnvelope, FaMapMarkerAlt, FaUserAlt } from "react-icons/fa";
 import ImageFallback from "./components/ImageFallback";
 
+import { toast } from 'react-nextjs-toast';
+import { ToastContainer } from 'react-nextjs-toast';
+import { createClient } from '@supabase/supabase-js'
+
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL,
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,
+  { 
+    persistSession: false 
+  }
+)
+
+
+const handleSubmit = async (event) => {
+  event.preventDefault();
+
+  const formData = new FormData(event.target);
+  const name = formData.get('name');
+  const email = formData.get('email');
+  const subject = formData.get('subject');
+  const message = formData.get('message');
+
+  const { data, error } = await supabase
+    .from('submissions')
+    .insert({ name, email, subject, message });
+
+    if (error) {
+      console.error('Error submitting form: ', error);
+      toast.notify('Error submitting form', error, {
+        duration: 5,
+        type: "error"
+      });
+    } else {
+      console.log('Form submitted successfully: ', data);
+      toast.notify('Form submitted successfully', data,{
+        duration: 5,
+        type: "success"
+      });
+    }
+};
+
 const Contact = ({ data }) => {
   const { frontmatter } = data;
   const { title, form_action, phone, mail, location } = frontmatter;
 
+  //...
   return (
     <section className="section lg:mt-16">
       <div className="container">
@@ -36,8 +78,7 @@ const Contact = ({ data }) => {
             </h2>
             <form
               className="contact-form mt-12"
-              method="POST"
-              action={form_action}
+              onSubmit={handleSubmit}
             >
               <div className="mb-6">
                 <label className="mb-2 block font-secondary" htmlFor="name">
@@ -93,6 +134,7 @@ const Contact = ({ data }) => {
                 </label>
                 <textarea
                   className="form-textarea w-full"
+                  name="message"
                   placeholder="Hello I’m Mr ‘x’ from………….."
                   rows="7"
                 />
@@ -103,6 +145,7 @@ const Contact = ({ data }) => {
                 value="Send Now"
               />
             </form>
+            <ToastContainer />
           </div>
         </div>
         <div className="row">
