@@ -62,7 +62,7 @@ const Post = ({ post }) => {
       <p>{post.content.slice(0, Number(summary_length))}</p>
       <Link
         className="btn btn-outline-primary mt-4"
-        href={`/${blog_folder}/${post.href}`}
+        href={post.frontmatter.href}
       >
       Go To Resource
       </Link>
