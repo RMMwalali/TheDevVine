@@ -1,38 +1,14 @@
-<h1 align=center>Geeky Nextjs</h1>
-<p align=center>Geeky is a free NextJs personal blog template</p>
-<h2 align="center"> <a target="_blank" href="https://geeky-nextjs.vercel.app/" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fgeeky-nextjs.vercel.app%2F&form_factor=desktop">Page Speed (100%)</a>
-</h2>
+<h1 align=center>The Dev Vine</h1>
 
 <p align=center>
   <a href="https://github.com/vercel/next.js/releases/tag/v13.0.6" alt="Contributors">
     <img src="https://img.shields.io/static/v1?label=NEXTJS&message=13.0&color=000&logo=nextjs" />
   </a>
 
-  <a href="https://github.com/statichunt/geeky-nextjs/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/statichunt/geeky-nextjs" alt="license"></a>
+Key Features
 
-  <img src="https://img.shields.io/github/languages/code-size/statichunt/geeky-nextjs" alt="code size">
+- Welcome to The Dev Vine, the ultimate resource for web developers. Here you can find a curated collection of links to the best developer websites on the internet. Whether you are looking for tutorials, tools, frameworks, libraries, or inspiration, The Dev Vine has you covered. You can browse by category, search by keyword, or filter by rating and popularity. The Dev Vine is constantly updated with new and exciting content, so make sure to bookmark us and check back often. We are also working on some amazing features that will make your experience even better, so stay tuned for more updates.
 
-  <a href="https://github.com/statichunt/geeky-nextjs/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/statichunt/geeky-nextjs" alt="contributors"></a>
-</p>
-
-![geeky](https://statichunt.com/themes/nextjs-geeky.png)
-
-## Key Features
-
-- Google Page Speed score 100! (Desktop)
-- Supports Contact Form
-- Disqus Comment Support
-- Related Posts Suggestion
-- MDX Support with many built-in custom components
-- Semantic HTML Document Structure
-- Custom Logo Support
-- Includes All SCSS Files
-- Taxonomy Page Support
-- Images Optimized With Next/image
-
-<!-- installation -->
 ## Installation
 
 After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
@@ -43,7 +19,7 @@ After downloading the template, you have some prerequisites to install. Then you
 
 ### Local setup
 
-After successfully installing those dependencies, open this template with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+After successfully installing those dependencies, open this template with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut `<code>`ctrl/cmd+\``</code>`]
 
 - Install dependencies
 
@@ -68,15 +44,17 @@ npm run build
 ```
 
 <!-- reporting issue -->
+
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for this Template. Please Search [existing issues](https://github.com/statichunt/geeky-nextjs/issues). It’s possible someone has already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/statichunt/geeky-nextjs/issues).
 
 <!-- licence -->
+
 ## License
 
-Copyright (c) 2019 - Present, Designed & Developed by [statichunt](https://statichunt.com)
+Copyright (c) 2023 - Present, Designed & Developed by [The Dev Vine](cutt.ly/twdwiV2Z)
 
 **Code License:** Released under the [MIT](https://github.com/statichunt/geeky-nextjs/blob/main/LICENSE) license.
 
