@@ -54,7 +54,7 @@ If your problem or idea has not been addressed yet, feel free to [open a new iss
 
 ## License
 
-Copyright (c) 2023 - Present, Designed & Developed by [The Dev Vine](cutt.ly/twdwiV2Z)
+Copyright (c) 2023 - Present, Designed & Developed by [The Dev Vine](https://the-dev-vine.vercel.app/)
 
 **Code License:** Released under the [MIT](https://github.com/statichunt/geeky-nextjs/blob/main/LICENSE) license.
 
