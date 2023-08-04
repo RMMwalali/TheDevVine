@@ -23,7 +23,7 @@
   "params": {
     "tag_manager_id": "",
     "footer_content": "We warmly welcome sponsors and are always on the lookout for any listings we may have overlooked. Feel free to send us an email and we'll promptly update our list! Don't forget to subscribe to our newsletter - it's absolutely free and delivers value straight to your inbox 📬.",
-    "copyright": "Exquisitely Designed and Skillfully Developed By [THE DEV ViNE](https://thedevvine.com/)"
+    "copyright": "Exquisitely Designed and Skillfully Developed By [THE DEV ViNE](https://thedevvine.vercel.app/)"
   },
   "metadata": {
     "meta_author": "The Dev Vine",
