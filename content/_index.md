@@ -1,7 +1,7 @@
 ---
 banner:
   title_small: "Welcome to the Ultimate Developer's Goldmine! 🙌"
-  content: 
+  content: "Uncover a treasure trove of tools, designed to empower your coding journey. Join our vibrant community, explore, learn, and innovate with us."
   image_enable: false
   image: /images/link-dynamic-color.png
   button:
