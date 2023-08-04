@@ -5,6 +5,6 @@ image: /images/post/post (23).png
 categories: ["Game"]
 featured: false
 draft: false
-href: 
+href: https://gamehistory.org
 ---
 A nonprofit organization dedicated to preserving and documenting the history of video games, offering resources and archives.

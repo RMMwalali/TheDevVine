@@ -5,6 +5,6 @@ image: /images/post/post1 (27).png
 categories: ["Full-Stack"]
 featured: false
 draft: false
-href: 
+href: https://httpie.io
 ---
 A user-friendly command-line HTTP client for making HTTP requests, with a more human-readable syntax compared to cURL.
